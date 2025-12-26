@@ -20,6 +20,6 @@ Life is unpredictable. Not everything is in our control, but as long as we’re 
 
 <p><strong>Take Me Back To Eden</strong></p>
 
-<img src="./playing.gif" width="120"/>
+<img src="./playing.gif" width="100"/>
 
 </div>
