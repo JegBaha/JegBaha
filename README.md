@@ -15,11 +15,11 @@ Life is unpredictable. Not everything is in our control, but as long as we’re 
 <br><br>
 
 <a href="https://open.spotify.com/track/2Gt7fjNlx901pPRkvBiNBZ" target="_blank">
-  <img src="./Take-Me-Back-To-Eden.jpg" width="320" alt="Listen on Spotify" />
+  <img src="./Take-Me-Back-To-Eden.jpg" width="180" alt="Take Me Back To Eden" />
 </a>
 
-<br>
+<p><strong>Take Me Back To Eden</strong></p>
 
-
+<img src="./playing.gif" width="120"/>
 
 </div>
